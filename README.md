@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sneakypeat
+- 👋 Hi, I’m Sabih
 - 👀 I’m interested in bioinformatics, Data analysis and automation
 - 🌱 I’m currently learning automation
 - 💞️ I’m looking to collaborate on bioinformatics analysis
