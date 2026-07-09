@@ -4,7 +4,7 @@ Sneakypeat/Sneakypeat is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-👋 Hi, I’m Sabih<br>👀 I’m interested in bioinformatics, Data analysis and automation<br>🌱 I’m currently learning automation<br>💞️ I’m looking to collaborate on bioinformatics analysis<br>
+👋 Hi, I’m Sabih<br>👀 I’m interested in bioinformatics, Data analysis and automation<br>🌱 I’m currently hcking claude for science<br>💞️ I’m looking to collaborate on bioinformatics analysis<br>
 
 
 # 💻 Tech Stack:
